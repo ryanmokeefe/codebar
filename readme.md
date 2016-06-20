@@ -63,7 +63,7 @@ workshop.print_details
 #
 ```
 
-## Bonus
+## Bonus I
 
 The `print_details` method currently does a number of different things, like printing out workshop details, the list of Students and the list of Coaches.
 
@@ -72,3 +72,7 @@ Create separate methods to print the workshop details (date and classroom), a me
 Also, make sure that these methods cannot be invoked from outside the class.
 
 > Hint: look into defining private class methods.
+
+## Bonus II
+
+Try implementing `super` in your code. Learn about it using the [Ruby docs](http://ruby-doc.org/docs/keywords/1.9/files/keywords_rb.html).
