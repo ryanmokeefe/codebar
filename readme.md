@@ -72,7 +72,3 @@ Create separate methods to print the workshop details (date and classroom), a me
 Also, make sure that these methods cannot be invoked from outside the class.
 
 > Hint: look into defining private class methods.
-
-## Bonus II
-
-Try implementing `super` in your code. Learn about it using the [Ruby docs](http://ruby-doc.org/docs/keywords/1.9/files/keywords_rb.html).
