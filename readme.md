@@ -20,7 +20,7 @@ Codebar also has Workshops. Each workshop has...
 * A group of instructors.
 * A roster of students.
 
-Create an `add_participant` method that accepts a member attribute. If the Member is a Coach, add them to the coaches list. If a Member is a Student, add them to the students list.
+An `add_participant` method that accepts a member as an argument. If the Member is an Instructor, add them to the instructors list. If a Member is a Student, add them to the students list.
 
 > Hint: look into Ruby's `.class` method.
 
