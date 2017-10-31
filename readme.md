@@ -16,7 +16,7 @@ Each `Member` is also either a `Student` or an `Instructor`.
 
 Codebar also has Workshops. Each workshop has...
 * A `date`.
-* A `classroom`.
+* A `subject`.
 * A group of instructors.
 * A roster of students.
 
@@ -49,7 +49,7 @@ workshop.add_participant(vicky)
 workshop.add_participant(nicole)
 workshop.print_details
 # =>
-# Workshop - 12/03/2014 - Classroom: CR6
+# Workshop - 12/03/2014 - Shutl
 #
 # Students
 # 1. Jane Doe - I am trying to learn programming and need some help
